@@ -1,0 +1,4 @@
+requests
+nmap
+concurrent.futures
+tqdm
